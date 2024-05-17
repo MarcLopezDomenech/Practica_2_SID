@@ -23,4 +23,4 @@ conda activate sid
 python3 estimacionDirecta.py
 ```
 
-El uso es el mismo que con Estimación de valor.
+El uso es el mismo que con Iteración de valor.
