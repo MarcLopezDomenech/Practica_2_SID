@@ -26,4 +26,9 @@ python3 estimacionDirecta.py
 El uso es el mismo que con Iteración de valor.
 
 ## Q learning
-Mismo uso que las anteriores
+Se mostrarán 5 mensajes para pasar los parámetros del entrenamiento \
+"Max number of steps in an episode:" (Número de pasos dentro de un episodio) \
+"Number of episodes:" (Número de episodios por iteración) \
+"Gamma:" (Factor de descuento) \
+"LEARNING_RATE:" (factor de aprendizaje) \
+"EPSILON:" (epsilon)
