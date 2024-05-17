@@ -14,3 +14,13 @@ Se mostrarán 5 mensajes para pasar los parámetros del entrenamiento \
 "Gamma:" (Factor de descuento) \
 "Reward Threshold:" (Umbral de recompensa) \
 "Number of experiments:" (Número de experimentos a realizar con los parámetros anteriores)
+
+## Estimación directa
+Para usar el método estimación directa, ejecutar en la terminal:
+
+```bash
+conda activate sid
+python3 estimacionDirecta.py
+```
+
+El uso es el mismo que con Estimación de valor.
