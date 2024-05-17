@@ -24,3 +24,6 @@ python3 estimacionDirecta.py
 ```
 
 El uso es el mismo que con Iteración de valor.
+
+## Q learning
+Mismo uso que las anteriores
